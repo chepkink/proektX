@@ -1,0 +1,131 @@
+.zag {
+width: 1920px;
+height: 785px;
+
+background: url(image.png);
+    
+}
+
+.nav {
+    display: flex;
+    margin-top: -750px;
+    margin-left: 349px;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-size: 14px;
+}
+
+ul,li {
+    display: block;
+}
+
+
+.menu {
+    display: flex;
+    margin-top: -20px;
+    margin-left: 1170px;
+    margin-right: 618px;
+}
+
+.menu li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    font-size: 14px;
+    color: black;
+}
+
+.menu li {
+    margin-right: 45px;
+}
+
+.wor {
+    margin-top: 242px;
+    margin-left: 285px;
+    font-size: 23px;
+    
+}
+
+.block {
+
+  margin-left: 269px;
+    margin-top: 26px;
+    font-size: 20px;
+    margin-right: 49px;
+}
+
+.rom {
+   
+    margin-left: 0px;
+    margin-top: 20px;
+    font-size: 19px;
+    
+}
+
+.mem {
+    margin-left: 370px;
+    margin-top: -70px;
+}
+
+.war {
+    margin-left: 370px;
+    margin-top: 20px;
+}
+
+.galary {
+    width: 24px;
+    height: 24px;
+    margin-top: -83px;
+    margin-left: 280px
+}
+
+.lag {
+    margin-left: 280px;
+    margin-top: 20px;
+}
+
+.ril {
+    margin-left: 645px;
+    margin-top: -75px;
+}
+
+.gal {
+    margin-left: 645px;
+    margin-top: 18px;
+}
+
+.gradient {
+    position: absolute;
+width: 345px;
+height: 60px;
+left: 280px;
+top: 495px;
+    background-image: linear-gradient(270deg, #92C1FB 0%, #4A74F6 100%);
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    
+   
+    
+}
+
+.pa {
+    margin-top: 10px;
+    margin-left: 70px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.image {
+    
+position: absolute;
+left: 1321px;
+top: 326px;
+
+    
+}
+
